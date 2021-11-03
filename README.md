@@ -1,6 +1,6 @@
 # praktikum2
 
-![luas;dan;keliling;lingkaran](lingkarang.png)
+![luas;dan;keliling;lingkaran](screenshot/lingkarang.png)
 
 # Program diatas saya mengimport modul math yang sudah di sediakan oleh python. Fungsinya supaya saya dapat menyertakan nilai phi yang sudah tersedia dalam modul tersebut dengan perintah math.pi jika kita coba mencetak fungsi tersebut maka akan menghasilkan nilai 3.14
 
@@ -10,9 +10,9 @@
 
 # Selanjutnya kita tampilkan hasilnya dengan fungsi print(). sintak \t merupakan karakter espace yang berfungsi untuk membuat tab. dalam kasus ini agar sejajar karakter sama dengan (=) nya.
 
-![lab1.1](lab1.1.png)
-![lab1.2](lab1.2.png)
+![lab1.1](screenshot/lab1.1.png)
+![lab1.2](screenshot/lab1.2.png)
 
 #
-![lab2](lab2.png)
-![flowchart](flowchart.png)
+![lab2](screenshot/lab2.png)
+![flowchart](screenshot/flowchart.png)
